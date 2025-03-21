@@ -56,6 +56,17 @@ This mobile application is designed to assist farmers and agricultural experts i
 
 
 
+📂 Integrate with Android App
+Open android_app/ in Android Studio.
+Replace the tflite model inside the assets folder.
+Build and deploy the app on a physical Android device.
+
+
+
+
+
+
+
  🚀 Download & Beta Releases  
 Beta versions are available for testing!  
 🔗 [Download Here](https://github.com/forever1ce/New-Blight/releases)  
