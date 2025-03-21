@@ -1,5 +1,6 @@
 Potato Plant Disease Detection App 🌱📱  
 
+
  Overview  
 The Potato Plant Disease Detection App leverages deep learning (CNNs) to accurately classify potato leaves into three categories:  
 ✔️ Healthy  
@@ -12,12 +13,18 @@ This mobile application is designed to assist farmers and agricultural experts i
 
 
 
+
+
+
  📌 Features  
 ✅ AIPowered Disease Detection – Utilizes a CNNbased deep learning model trained on a curated dataset.  
 ✅ Offline Functionality – Works without an internet connection after installation.  
 ✅ UserFriendly Interface – Simple image upload and instant results.  
 ✅ Lightweight & Optimized – The TensorFlow Lite (TFLite) model ensures smooth performance on mobile devices.  
 ✅ Continuous Updates – Regular improvements based on user feedback.  
+
+
+
 
 
 
@@ -33,10 +40,18 @@ This mobile application is designed to assist farmers and agricultural experts i
 
 
 
+
+
+
  📸 Screenshots  
 ![WhatsApp Image 2025-03-21 at 16 21 32_ffe4882e](https://github.com/user-attachments/assets/1901373d-f477-4e4f-9aef-e9cb275138b3)
+
 ![WhatsApp Image 2025-03-21 at 16 21 35_a2a19e63](https://github.com/user-attachments/assets/da2744e2-2102-43cd-8713-34afdb29d2f9)
+
 ![WhatsApp Image 2025-03-21 at 16 21 36_fb3d112c](https://github.com/user-attachments/assets/0f17f2d1-7fa1-48ae-ba8f-35c2d1a74239)
+
+
+
 
 
 
@@ -47,6 +62,9 @@ Beta versions are available for testing!
 
 
 
+
+
+
  📢 Future Enhancements  
 📌 Expand Dataset – Improve model accuracy with more diverse images.  
 📌 RealTime Camera Detection – Integrate live leaf scanning functionality.  
@@ -54,8 +72,14 @@ Beta versions are available for testing!
 
 
 
+
+
+
  📜 License  
 This project is opensource and available under the MIT License. Contributions are welcome!  
+
+
+
 
 📌 GitHub Repository: [YOUR_GITHUB_LINK]  
 
